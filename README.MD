@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+
 <!-- logo proyecto -->
 <br />
 <div align="center">
@@ -21,21 +23,21 @@
   <summary>Tabla de contenidos</summary>
   <ol>
     <li>
-      <a href="#acerca del proyecto">Acerca del proyecto</a>
+      <a href="#acerca-del-proyecto">Acerca del proyecto</a>
       <ul>
-        <li><a href="#">Construido con</a></li>
+        <li><a href="#construido-con">Construido con</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Instalación</a>
+      <a href="#instalacion">Instalación</a>
       <ul>
-        <li><a href="#prerequisites">Clonar el repositorio</a></li>
-        <li><a href="#installation">Visualización del contenido</a></li>
+        <li><a href="#clonar-el-repositorio">Clonar el repositorio</a></li>
+        <li><a href="#visualizacion-del-contenido">Visualización del contenido</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Estructura del proyecto</a></li>
-    <li><a href="#roadmap">Características y mejoras implementadas</a></li>
-    <li><a href="#contributing">Información sobre Commits y Pull Requests</a></li>
+    <li><a href="#estructura-del-proyecto">Estructura del proyecto</a></li>
+    <li><a href="#caracteristicas-y-mejoras-implementadas">Características y mejoras implementadas</a></li>
+    <li><a href="#informacion-sobre-commits-y-pull-requests">Información sobre Commits y Pull Requests</a></li>
   </ol>
 </details>
 
@@ -105,7 +107,7 @@ web de su preferencia o utilizar VisualStudioCode con Live preview
 ## Información sobre Commits y Pull Requests
 
 ### [Resumen de Commits y Pushes a GitHub](https://github.com/little-shiny/T1Tarea1_OPT/activity)
-### Pull Request de las ramas: [Primera mejora](#1) [Segunda mejora](#2)
+### Pull Request de las ramas: [Primera mejora](#1) || [Segunda mejora](#2)
 
 
 <p align="right">(<a href="#readme-top">Volver al principio</a>)</p>
