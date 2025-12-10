@@ -6,7 +6,49 @@
     <title>Mi Proyecto Web</title>
 </head>
 <body>
-    <h1>Bienvenido/a a mi sitio web</h1>
-    <p>Este es un proyecto para aprender Git y GitHub.</p>
+    <link href="hoja_estilo.css" rel="stylesheet">
+
+    <h1 class="global-h1">Bienvenido/a a mi sitio web</h1>
+    <div class="spacer"></div>
+    <p class="global-body-p">Este es un proyecto para aprender Git y GitHub.</p>
+    <div class="spacer"></div>
+
+    <div class="form-body">
+        <div id="form">
+            <h3 class="form-h3">Contacta con nosotros</h3>
+            <form id="form-id" class="form-class">
+
+                <div class="form-grupo">
+                    <label for="Nombre" class="form-label">Tu nombre</label>
+                    <div class="form-entrada">
+                        <input type="text" id="Nombre" name="Nombre" class="form-control" required>
+                    </div>
+                </div>
+
+                <div class="form-grupo">
+                    <label for="Email" class="form-label">Tu dirección de correo electrónico</label>
+                    <div class="form-entrada">
+                        <input type="Email" id="Email" name="Email" class="form-control" required>
+                    </div>
+                </div>
+
+                <div class="form-grupo">
+                    <label for="Mensaje" class="form-label">Mensaje que desees escribirnos</label>
+                    <div class="form-entrada">
+                        <textarea id="Mensaje" name="Mensaje" class="form-control" rows="6" maxlength="3000" required></textarea>
+                    </div>
+                </div>
+
+                <div class="form-grupo">
+                    <button type="submit" id="form-boton"
+                            class="form-btn form-btn-primary form-btn-lg form-btn-block">Enviar Mensaje</button>
+                </div>
+
+            </form>
+
+        </div>
+
+    </div>
+
 </body>
 </html>
