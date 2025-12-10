@@ -1,0 +1,40 @@
+*{
+    font-family: -apple-system, Arial, sans-serif;
+    padding: 0px;
+}
+
+/* Body */
+
+div {
+    padding: 20px;
+}
+
+/* Tablas ---------------------------------------------------------------------------*/
+table {
+
+    width: 100%;
+    border: 1px solid #0069d9;
+    border-collapse: collapse;
+    
+}
+
+tr th {
+    background-color: #0069d9;
+    color: white;
+    border: 1px solid #0069d9;
+
+}
+th, td {
+
+    padding: 8px;
+    text-align: center;
+    border: 1px solid #0069d9;
+}
+
+.celda-quincenal{
+    padding: 8px;
+    text-align: center;
+    border: 1px solid #0069d9;
+    background-color: #ffe6b7;
+    color: #000000
+}
