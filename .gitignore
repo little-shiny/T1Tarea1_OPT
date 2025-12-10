@@ -1,0 +1,5 @@
+# Ignora la carpeta .idea y su contenido (similar a .vscode pero de InteliJ)
+.idea/
+
+# Ignora el archivo de coniguración del proyecto que crea IntelliJ
+T1Tarea1_OPT.iml
