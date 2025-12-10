@@ -107,7 +107,7 @@ web de su preferencia o utilizar VisualStudioCode con Live preview
 ## Información sobre Commits y Pull Requests
 
 ### [Resumen de Commits y Pushes a GitHub](https://github.com/little-shiny/T1Tarea1_OPT/activity)
-### Pull Request de las ramas: [Primera mejora]( #1 ) || [Segunda mejora]( #2 )
+### Pull Request de las ramas: [Primera mejora](https://github.com/little-shiny/T1Tarea1_OPT/pull/1 ) || [Segunda mejora]( https://github.com/little-shiny/T1Tarea1_OPT/pull/2 )
 
 
 <p align="right">(<a href="#readme-top">Volver al principio</a>)</p>
